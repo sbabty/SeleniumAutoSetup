@@ -98,9 +98,3 @@ python setup_selenium.py --no-install
 - Check `setup_selenium.log` for detailed error messages.
 - Ensure your browser is installed and accessible in your system PATH.
 
----
-
-## License
-
-This project is licensed under the MIT License.  
-See [LICENSE](LICENSE) for details.
