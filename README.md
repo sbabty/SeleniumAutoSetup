@@ -1,4 +1,4 @@
-# setup_selenium.py
+## 🚀 Automated Selenium & WebDriver Setup Script
 
 ## Overview
 
